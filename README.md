@@ -49,7 +49,7 @@ Output:
 
  Approach:
 
-We repeatedly compare the heads of both lists:
+Repeatedly compare the heads of both lists:
 
 Steps:
 If one list is empty → return the other list
